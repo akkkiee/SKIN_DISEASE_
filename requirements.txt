@@ -1,0 +1,12 @@
+**Purpose:**  libraries  need to install to run your code.
+
+
+
+tensorflow
+numpy
+pandas
+streamlit
+pillow
+opencv-python
+matplotlib
+scikit-learn
